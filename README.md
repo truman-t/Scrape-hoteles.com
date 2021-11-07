@@ -19,3 +19,5 @@ El script hace uso de tecnología Wolfram a través de su librería para Python 
 ## Dataset
 El dataset generado se encuentra en el siguiente link:
 https://zenodo.org/record/5650235#.YYfxLLq21PY
+## Video
+https://drive.google.com/uc?id=1hQKR6reD3Hm6GcmXyCC2RPDRVeugtA-x&export=download
