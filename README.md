@@ -6,3 +6,8 @@ La actividad ha sido realizada por Truman Tapia y Julio Zamora Guerrero
 ## Ficheros
 - **PRA1_ttapiam_jzamgu2.pdf**: pdf con las respuestas de la práctica.
 - **src/hotelesComScraper.py**: script para hacer scrape a hoteles.com
+## Detalles del código
+
+## Dataset
+El dataset generado se encuentra en el siguiente link:
+https://zenodo.org/record/5650235#.YYfxLLq21PY
